@@ -1,2 +1,0 @@
-# RayTracing
-visualizing quadratic surface
