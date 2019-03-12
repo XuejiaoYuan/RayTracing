@@ -9,7 +9,7 @@
 - Qt Creator 4.2.1 (MSVC 2015 (64-bit));
 
 ## 数据结构
-<img src="Res/data_structur.png" alt="数据结构">
+<img src="Res/data_structure.png" alt="数据结构">
 
 ## 结果展示
 ### 1. 椭圆面
