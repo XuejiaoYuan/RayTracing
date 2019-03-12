@@ -8,6 +8,9 @@
 - Micorsoft Visual Studio 2015;
 - Qt Creator 4.2.1 (MSVC 2015 (64-bit));
 
+## 数据结构
+<img src="Res/data_structur.png" alt="数据结构">
+
 ## 结果展示
 ### 1. 椭圆面
 <img src="Res/ellipsoid.png" alt="椭圆面" width=500>
